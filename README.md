@@ -4,4 +4,6 @@
 1. Installiere [Raylib](https://www.raylib.com/)
 2. Im Stammverzeichnis: ```make run``` 
 
+![demo](assets/example.png)
+
 Viel Spaß. 
