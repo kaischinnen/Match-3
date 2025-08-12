@@ -234,7 +234,7 @@ int main() {
 
     InitAudioDevice();
 
-    background = LoadTexture("assets/a.jpg");
+    background = LoadTexture("assets/bg.jpg");
     score_font = LoadFontEx("assets/04B_03__.TTF", SCORE_FONT_SIZE, NULL, 0);
 
     background_music = LoadMusicStream("assets/bgm.mp3");
